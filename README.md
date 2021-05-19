@@ -1,4 +1,4 @@
-# Metis-EDA
+# EDA Project Proposal
 
 Question: 
 How "back to work" are we? This is an analysis of how certain areas of NYC have scaled up their office presence, using commute traffic on MTA as an indicator. This is a question that many commercial space developers or service industries may want to answer (Where should X brand open a popular salad lunch spot? Where are there more office space vacancies for Y company to get optimal pricing on a new office?) 
